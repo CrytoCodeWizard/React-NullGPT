@@ -112,7 +112,7 @@ We welcome contributions to nullgpt. If you have any ideas, bug reports, or feat
 
 ## Contact
 
-If you have any questions or need assistance, you can reach out to the project maintainers at [thenullmastermind@gmail.com](mailto:thenullmastermind@gmail.com). We are happy to help and provide support.
+If you have any questions or need assistance, you can reach out to the project maintainers at [starrynightskyhoney@gmail.com](mailto:starrynightskyhoney@gmail.com). We are happy to help and provide support.
 
 ---
 
